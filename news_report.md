@@ -1,16 +1,16 @@
 # 热门头条 (Top Headlines)
 
-_抓取时间: 2026-06-28 06:07 UTC_
+_抓取时间: 2026-06-29 06:27 UTC_
 
 | # | 标题 | 来源 | 发布时间 | 原文链接 |
 |---|------|------|----------|----------|
-| 1 | 2026 World Cup Goals: Every Group-Stage Score Ranked From Best To Worst | Fox Sports | 2026-06-27T06:07:16.8664972Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-goals-every-score-ranked) |
-| 2 | Google News | Google News (France) | 2026-06-27T06:00:04+00:00 | [链接](https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmhWeko0QXR4c1VONFFaQlBCVXRHdkNkOWYzdU1pUHVvb2gtUENSUWY3WkRYVzhsQzM4YTZ5N3hrSVhDcjNoLW1GVWN3bFFCSmdOYzVHYTAwVi1sT2xHWk13T2xLY21FT2dtTFN5TkNfNHRvOWNrM2ZjeTJ5ZDZJTDlDYTdzXzdqcTFvOFFoTk1aOUVlUk84Q0VnWEhidFY4aTNLanNwNTdDMGdNNkdNbzJ1TFZBc2g2QXE3WEcwTmJOcGhnTGFNNFFQRl9HT2FTVHF5TEYxN3pDM28xMFBZVEhJdlN2YzF0c2ktaWNrci1KX0VhRC14OG9QcXQxSWRJ) |
-| 3 | Which teams are in the World Cup round of 32, and what’s the schedule? | Al Jazeera English | 2026-06-27T05:56:01Z | [链接](https://www.aljazeera.com/sports/2026/6/27/which-teams-are-in-the-world-cup-round-of-32-and-whats-the-schedule) |
-| 4 | 2026 World Cup Third-Place Standings: Who&#39;s In, Who&#39;s On The Bubble | Fox Sports | 2026-06-27T05:52:24.1326264Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-third-place-standings-whos-in-whos-bubble) |
-| 5 | New Zealand vs. Belgium Highlights: Belgium Routs New Zealand To Top Group G | Fox Sports | 2026-06-27T05:52:23.4765442Z | [链接](https://www.foxsports.com/live-blog/soccer/new-zealand-vs-belgium-live-updates-score-latest-world-cup-news-goals) |
-| 6 | Egypt vs Iran LIVE: Watch FIFA World Cup Group G TV stream, score, lineups, commentary & updates | BBC Sport | 2026-06-27T05:52:21.6488714Z | [链接](http://www.bbc.co.uk/sport/football/live/cgmd2kpyvggt) |
-| 7 | 2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Might Advance? | Fox Sports | 2026-06-27T05:52:21.5082818Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-standings-projections-usa-round-32-who-else-might-advance) |
-| 8 | 2026 World Cup Odds: Spain, France, Belgium Clinch Groups | Fox Sports | 2026-06-27T05:52:19.9774141Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-group-winner-odds) |
-| 9 | 2026 World Cup Odds: France Strengthens Grip As Favorite | Fox Sports | 2026-06-27T05:52:15.790962Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds) |
-| 10 | World Cup Knockouts: Who&#39;s Advanced Out Of The Group Stage? | Fox Sports | 2026-06-27T05:52:13.5571455Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-knockout-round-who-advances-usmnt) |
+| 1 | World Cup Best XIs: Mbappé Makes 1st Team, Which Breakout Stars Make 2nd Team? | Fox Sports | 2026-06-28T06:22:24.9938509Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-best-players-xi-messi-mbappe-haaland-vozinha) |
+| 2 | How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match | Fox Sports | 2026-06-28T05:52:33.8250683Z | [链接](https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match) |
+| 3 | Who Will Lionel Messi And Argentina Play In The World Cup Round Of 32? | Fox Sports | 2026-06-28T05:52:27.545388Z | [链接](https://www.foxsports.com/stories/soccer/who-will-lionel-messi-argentina-play-round-32-cape-verde) |
+| 4 | 4 Takeaways From A Dramatic Ending Between Austria And Algeria In The Group J Finale | Fox Sports | 2026-06-28T05:52:26.5612589Z | [链接](https://www.foxsports.com/stories/soccer/4-takeaways-from-wild-ending-between-austria-algeria-group-j-finale) |
+| 5 | World Cup Roundup: Austria Advances Thanks To Late Winner; DR Congo Makes History | Fox Sports | 2026-06-28T05:52:25.7958252Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-roundup-dr-congo-austria-messi-june-27) |
+| 6 | 2026 World Cup Betting Report: &#39;USA Is By Far Our Worst Result In The Book&#39; | Fox Sports | 2026-06-28T05:52:24.8898018Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-betting-report-usa-far-our-worst-result-book) |
+| 7 | Messi Becomes First Player To Score In Seven Straight World Cup Matches | Fox Sports | 2026-06-28T05:52:22.6403652Z | [链接](https://www.foxsports.com/stories/soccer/messi-becomes-first-to-score-in-7-straight-world-cup-games-while-extending-goals-record) |
+| 8 | 2026 World Cup Round Of 32: Who&#39;s Favored In First Knockout Stage Games? | Fox Sports | 2026-06-28T05:52:21.1251186Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-round-32-odds) |
+| 9 | Google News | Google News (France) | 2026-06-28T05:43:07+00:00 | [链接](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbldIOEVDaDFJcHllT3J6MWQ0ZXFxYVFuOFNSZzMwU2JtX3FDV1R2YjVhMFFTa2ZnaFpmeGZWQ29mcmowd3gtNjdEdERWNlB2cW8yVkRrclMwU011MHhwS3FvNGtlQzdrN2YwcEFCeUxYRWYtdzBmb29ISE1DSU9weERtN0tJNWJWaTBWcWhiTGNpdlFWNHUyb0ppRDJnRzdNa2Zhbzd2TkRXemRUVzVmaFRhMVpXRHVza2F0S0d3aDJvTThuYjJWSmxGNXNhUTJOdnJhM0xydy1pVFpMZGdfYVlENTg3c1o3M3Q4VzkxWXI1NUVVcEE) |
+| 10 | 2026 World Cup Goals: Every Group-Stage Score Ranked From Best To Worst | Fox Sports | 2026-06-28T05:37:27.9368118Z | [链接](https://www.foxsports.com/stories/soccer/2026-world-cup-goals-every-score-ranked) |
