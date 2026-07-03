@@ -1,16 +1,16 @@
 # 热门头条 (Top Headlines)
 
-_抓取时间: 2026-07-02 05:48 UTC_
+_抓取时间: 2026-07-03 05:43 UTC_
 
 | # | 标题 | 来源 | 发布时间 | 原文链接 |
 |---|------|------|----------|----------|
-| 1 | 2026 FIFA World Cup Golden Boot Race Tracker: Messi Leads, Haaland Rises | Fox Sports | 2026-06-30T19:22:53.7203141Z | [链接](https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker) |
-| 2 | 2026 World Cup Bracket: Live Look At The Round Of 16 Matchups | Fox Sports | 2026-06-30T19:22:39.6300869Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-live-bracket-knockout-games-16) |
-| 3 | Mexico Fans Blast Horns Outside Ecuador&#39;s Hotel Ahead Of Round Of 32 Game | Fox Sports | 2026-06-30T19:22:35.5842228Z | [链接](https://www.foxsports.com/stories/other/mexican-fans-blast-horns-outside-ecuadors-hotel-fueling-a-sleepless-night-at-the-world-cup) |
-| 4 | How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match | Fox Sports | 2026-06-30T19:22:32.3194137Z | [链接](https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match) |
-| 5 | World Cup 2026: Jarel Quansah and Reece James miss training as right back problems mount for England | BBC Sport | 2026-06-30T19:22:24.2745504Z | [链接](http://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo) |
-| 6 | Elbows up, other Canadian terms added to Oxford English Dictionary \| CBC News | CBC News | 2026-06-30T19:07:16.0266518Z | [链接](http://www.cbc.ca/news/entertainment/elbows-up-added-oxford-english-dictionary-9.7254033) |
-| 7 | Haaland scores late as Norway send Ivory Coast out of World Cup - ESPN | ESPN | 2026-06-30T18:59:00Z | [链接](https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32) |
-| 8 | England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups | Al Jazeera English | 2026-06-30T18:57:35Z | [链接](https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups) |
-| 9 | Google News | Google News (Argentina) | 2026-06-30T18:53:05+00:00 | [链接](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblluVWNseTI0WlA4R0xlZEhoU3hWUmw3WW9VQ2g2WDBQRjdZc0NoNWtOVXNKQXVOVVN0Q08xak9qaEVRU09yWGw5Z19zaHhVOVRIbHdIeGxyMVpMN2tHczJTY3dXaUtBSHZjRFNBTEpVMVg2UHdUMFRmaVc1NFU5UkpGNUppd3dOSEV6TWJpUkNjWF95ME85RDg0dkhraEJRNnJ4clF3V3dkMEtIbzhVSXNEVXVJZEhZdUF1bjdISUUzZw) |
-| 10 | Google News | Google News (UK) | 2026-06-30T18:40:00+00:00 | [链接](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2N2OXhPT2tyNGZRek9vUGxCWXVhdU96Mm55OFlzQTZmLTN6UXhVcFpqOWRfYkRTSEVlSWl6SkNSN1JuZjVtTlkyOVc4ejNNZGJEclEwR0lPT1UzNDJ4Z18xa3hSdUxBNkU2X0Y2NzRnU0lOS2REWTdQUDZnUWhsSEphX3IzdzVhYXVRbC1UeDBnaENicEs2cVI5bjR4UjNJaUNEUUJTMTM2Vi02a2tzRlhGa0RoOWlHZ29kdUNvLWFxNE5qeWc) |
+| 1 | World Cup 2026: Why did England struggle against DR Congo? | BBC Sport | 2026-07-02T00:22:18.5280278Z | [链接](http://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o) |
+| 2 | Soccer fans sue StubHub over cancelled World Cup tickets \| CBC News | CBC News | 2026-07-02T00:07:21.7913082Z | [链接](http://www.cbc.ca/news/world/stubhub-cancelled-tickets-fifa-world-cup-class-action-lawsuit-9.7255509) |
+| 3 | Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16 | Al Jazeera English | 2026-07-02T00:05:48Z | [链接](https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last) |
+| 4 | 2026 World Cup Odds: France Strengthens Grip As Favorites; Belgium Rises | Fox Sports | 2026-07-01T23:52:25.3580522Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds) |
+| 5 | Lamine Yamal, Cristiano Ronaldo Keep Round of 32 Action Going At The World Cup | Fox Sports | 2026-07-01T23:52:21.5308838Z | [链接](https://www.foxsports.com/stories/soccer/world-cup-ronaldo-yamal-spain-portugal-croatia-modric-algeria-austria-match-day-22) |
+| 6 | United States vs Bosnia-Herzegovina: FIFA World Cup live, commebtary, stats & head-to-head | BBC Sport | 2026-07-01T23:52:19.5313834Z | [链接](http://www.bbc.co.uk/sport/football/live/cx2j51v3veet) |
+| 7 | Belgium converts late penalty to beat Senegal 3-2 in extra time in the round of 32 at the World Cup | NBC News | 2026-07-01T23:51:54Z | [链接](https://www.nbcnews.com/sports/soccer/belgium-senegal-fifa-world-cup-result-rcna352661) |
+| 8 | Google News | Google News (Argentina) | 2026-07-01T23:25:00+00:00 | [链接](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHJiN2RrME1VSkk2RjVubnZqeTJtbUMxNHdFM2k4U0tEajhNQXZhMjl5bUQyVF8xaU5Fei1ibGhwTmt2dmt0aDlPZUU0SzI1TFdFdzFxamtLZmoySjNnNEdBUkNpM2E1TFpXTWNxcVJRQjlRdUdwcnk2ckFVQ1NuYllQaHVrT1JnQ3ZDMFNRWFB2elduekx6WE1KbzB5TENsUFRCa2pxYzBvRWVrU3U5WXZlZGhWT2lrZTgwMGZsNjduRTdRV0FZQjhJT1haOWhFQ21jZ2U5WDdoXzNRcE40Mw) |
+| 9 | Why the World Cup is a royal affair - Live Updates - POLITICO | Politico | 2026-07-01T23:15:00+00:00 | [链接](https://www.politico.com/live-updates/2026/07/01/world-cup-2026/european-royals-attending-fifa-world-cup-2026-00983717) |
+| 10 | Romelu Lukaku forced to break up heated clash between team-mates as Belgium stage stunning World Cup comeback | The Sport Bible | 2026-07-01T23:12:53Z | [链接](https://www.thesportbible.com/football/football-news/fifa-world-cup/belgium-romelu-lukaku-youri-tielemans-leandro-trossard-senegal-891654-20260701) |
